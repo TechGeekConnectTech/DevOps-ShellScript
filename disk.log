@@ -1,0 +1,54 @@
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        7.8G     0  7.8G   0% /dev
+tmpfs           7.9G     0  7.9G   0% /dev/shm
+tmpfs           7.9G   65M  7.8G   1% /run
+tmpfs           7.9G     0  7.9G   0% /sys/fs/cgroup
+/dev/sda4       199G  3.9G  195G   2% /
+/dev/sda3      1014M  365M  650M  36% /boot
+/dev/sda2       200M  5.9M  194M   3% /boot/efi
+tmpfs           1.6G     0  1.6G   0% /run/user/1009
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        7.8G     0  7.8G   0% /dev
+tmpfs           7.9G     0  7.9G   0% /dev/shm
+tmpfs           7.9G   65M  7.8G   1% /run
+tmpfs           7.9G     0  7.9G   0% /sys/fs/cgroup
+/dev/sda4       199G  3.9G  195G   2% /
+/dev/sda3      1014M  365M  650M  36% /boot
+/dev/sda2       200M  5.9M  194M   3% /boot/efi
+tmpfs           1.6G     0  1.6G   0% /run/user/1009
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        7.8G     0  7.8G   0% /dev
+tmpfs           7.9G     0  7.9G   0% /dev/shm
+tmpfs           7.9G   65M  7.8G   1% /run
+tmpfs           7.9G     0  7.9G   0% /sys/fs/cgroup
+/dev/sda4       199G  3.9G  195G   2% /
+/dev/sda3      1014M  365M  650M  36% /boot
+/dev/sda2       200M  5.9M  194M   3% /boot/efi
+tmpfs           1.6G     0  1.6G   0% /run/user/1009
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        7.8G     0  7.8G   0% /dev
+tmpfs           7.9G     0  7.9G   0% /dev/shm
+tmpfs           7.9G   65M  7.8G   1% /run
+tmpfs           7.9G     0  7.9G   0% /sys/fs/cgroup
+/dev/sda4       199G  3.9G  195G   2% /
+/dev/sda3      1014M  365M  650M  36% /boot
+/dev/sda2       200M  5.9M  194M   3% /boot/efi
+tmpfs           1.6G     0  1.6G   0% /run/user/1009
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        7.8G     0  7.8G   0% /dev
+tmpfs           7.9G     0  7.9G   0% /dev/shm
+tmpfs           7.9G   65M  7.8G   1% /run
+tmpfs           7.9G     0  7.9G   0% /sys/fs/cgroup
+/dev/sda4       199G  3.9G  195G   2% /
+/dev/sda3      1014M  365M  650M  36% /boot
+/dev/sda2       200M  5.9M  194M   3% /boot/efi
+tmpfs           1.6G     0  1.6G   0% /run/user/1009
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        7.8G     0  7.8G   0% /dev
+tmpfs           7.9G     0  7.9G   0% /dev/shm
+tmpfs           7.9G   65M  7.8G   1% /run
+tmpfs           7.9G     0  7.9G   0% /sys/fs/cgroup
+/dev/sda4       199G  3.9G  195G   2% /
+/dev/sda3      1014M  365M  650M  36% /boot
+/dev/sda2       200M  5.9M  194M   3% /boot/efi
+tmpfs           1.6G     0  1.6G   0% /run/user/1009
